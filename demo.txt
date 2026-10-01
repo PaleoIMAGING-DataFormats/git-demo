@@ -4,3 +4,5 @@ print("Auf Wiedersehen!")
 
 
 print("Ciao")
+
+Please upload the group photo!
